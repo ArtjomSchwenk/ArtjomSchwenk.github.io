@@ -1,0 +1,25 @@
+baseurl: https://example.com
+languageCode: en-us
+theme: stack
+title: Arti_S homepage
+menu:
+    main: []
+
+    social:
+        - identifier: github
+          name: GitHub
+          url: https://github.com/ArtjomSchwenk
+          params:
+              icon: brand-github
+
+        - identifier: mastodon
+          name: mastodon
+          url: https://urusai.social/@stevy
+          params:
+            icon: brand-mastodon
+
+        - identifier: matrix
+          name: Matrix
+          url: https://matrix.to/#/@arti-s:matrix.org?client=im.element
+          params:
+              icon: brand-matrix

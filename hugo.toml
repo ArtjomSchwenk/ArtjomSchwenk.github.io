@@ -1,5 +1,0 @@
-baseURL = 'https://example.org/'
-languageCode = 'en-us'
-title = 'Arti_S homepage'
-
-theme = 'stack'
