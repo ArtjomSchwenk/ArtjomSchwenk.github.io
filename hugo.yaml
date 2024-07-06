@@ -5,23 +5,16 @@ title: Arti_S
 
 menu:
     main:
-      - identifier: home
-        name: Home
-        weight: -100
-        url: /
-        params:
-          icon: home
-
       - identifier: about  
         name: About
-        weight: -90
+        weight: -100
         url: /about
         params:
             icon: user
 
       - identifier: search
         name: Search
-        weight: -80
+        weight: -90
         url: /search
         params:
             icon: search
