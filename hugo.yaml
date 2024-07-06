@@ -1,9 +1,30 @@
 baseurl: https://example.com
 languageCode: en-us
 theme: stack
-title: Arti_S homepage
+title: Arti_S
+
 menu:
-    main: []
+    main:
+      - identifier: home
+        name: Home
+        weight: -100
+        url: /
+        params:
+          icon: home
+
+      - identifier: about  
+        name: About
+        weight: -90
+        url: /about
+        params:
+            icon: user
+
+      - identifier: search
+        name: Search
+        weight: -80
+        url: /search
+        params:
+            icon: search
 
     social:
         - identifier: github
