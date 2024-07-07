@@ -1,0 +1,42 @@
+baseurl = "https://example.com"
+languageCode = "en-us"
+theme = "stack"
+title = "Arti_S"
+
+[[menu.main]]
+  identifier = "about"
+  name = "About"
+  weight = -100
+  url = "/about"
+  [menu.main.params]
+    icon = "user"
+
+[[menu.main]]
+  identifier = "search"
+  name = "Search"
+  weight = -90
+  url = "/search"
+  [menu.main.params]
+    icon = "search"
+
+[[menu.social]]
+  identifier = "github"
+  name = "GitHub"
+  url = "https://github.com/ArtjomSchwenk"
+  [menu.social.params]
+    icon = "brand-github"
+
+[[menu.social]]
+  identifier = "mastodon"
+  name = "mastodon"
+  url = "https://urusai.social/@stevy"
+  [menu.social.params]
+    icon = "brand-mastodon"
+
+[[menu.social]]
+  identifier = "matrix"
+  name = "Matrix"
+  url = "https://matrix.to/#/@arti-s:matrix.org?client=im.element"
+  [menu.social.params]
+    icon = "brand-matrix"
+
