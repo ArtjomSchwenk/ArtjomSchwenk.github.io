@@ -1,7 +1,15 @@
 baseurl = "https://example.com"
 languageCode = "en-us"
 theme = "stack"
-title = "Arti_S"
+title = "Arti_S homepage"
+
+[Params.Sidebar]
+emoji = "🚧"
+
+[Params.Sidebar.avatar]
+enabled = true
+src = "img/avatar.png"
+local = true
 
 [[menu.social]]
   identifier = "github"
