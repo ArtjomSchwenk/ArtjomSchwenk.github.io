@@ -3,14 +3,6 @@ languageCode = "en-us"
 theme = "stack"
 title = "Arti_S"
 
-[[menu.main]]
-  identifier = "about"
-  name = "About"
-  weight = -100
-  url = "/about"
-  [menu.main.params]
-    icon = "user"
-
 [[menu.social]]
   identifier = "github"
   name = "GitHub"
