@@ -32,3 +32,10 @@ local = true
   [menu.social.params]
     icon = "brand-matrix"
 
+[[menu.main]]
+  identifier = "home"
+  name = "Home"
+  url = "/"
+  weight = "-100"
+  [menu.main.params]
+    icon = "home"
