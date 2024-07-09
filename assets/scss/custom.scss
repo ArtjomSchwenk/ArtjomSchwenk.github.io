@@ -11,7 +11,24 @@ footer.site-footer::before {
   left: 0;
 }
 
-.humanmademark {
+[data-scheme="dark"] {
+  .humanmademark-white{
   width: 20rem;
   height: auto;
+  }
+
+  .humanmademark-black{
+    display: none;
+  }
+}
+
+[data-scheme="light"] { 
+  .humanmademark-white{
+  display: none;
+  }
+
+  .humanmademark-black{
+    width: 20rem;
+    height: auto;
+  }
 }
