@@ -1,0 +1,17 @@
+.site-footer {
+  display: flex;
+  position: relative;
+  justify-content: space-between;
+  align-items: center;
+}
+
+footer.site-footer::before {
+  position: absolute;
+  top: 0;
+  left: 0;
+}
+
+.humanmademark {
+  width: 20rem;
+  height: auto;
+}
