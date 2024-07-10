@@ -4,7 +4,7 @@ theme = "stack"
 title = "Arti-s homepage"
 
 [Params.Sidebar]
-emoji = "🚧"
+emoji = "🐍"
 
 [Params.Sidebar.avatar]
 enabled = true
