@@ -1,7 +1,8 @@
 baseurl = "https://example.com"
 languageCode = "en-us"
 theme = "stack"
-title = "Arti-s homepage"
+title = "Arti-S homepage"
+copyright = "Artjom Schwenk"
 
 [Params.Sidebar]
 emoji = "🐍"
@@ -39,3 +40,12 @@ local = true
   weight = "-100"
   [menu.main.params]
     icon = "home"
+
+[Params.Footer]
+  since = 2024
+
+[Params.Article]
+  math = true
+  [params.article.licence]
+    enabled = true
+    default = "Licensed under CC BY-NC-SA 4.0"

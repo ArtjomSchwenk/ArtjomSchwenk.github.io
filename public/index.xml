@@ -1,11 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
-        <title>Arti-s homepage</title>
+        <title>Arti-S homepage</title>
         <link>http://localhost:1313/</link>
-        <description>Recent content on Arti-s homepage</description>
+        <description>Recent content on Arti-S homepage</description>
         <generator>Hugo -- gohugo.io</generator>
         <language>en-us</language>
+        <copyright>Artjom Schwenk</copyright>
         <lastBuildDate>Mon, 08 Jul 2024 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" /><item>
         <title>About Me</title>
         <link>http://localhost:1313/page/about/</link>
