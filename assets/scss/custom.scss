@@ -12,22 +12,22 @@ footer.site-footer::before {
 }
 
 [data-scheme="dark"] {
-  .humanmademark-white{
+  .brainmademark-white{
   width: 20rem;
   height: auto;
   }
 
-  .humanmademark-black{
+  .brainmademark-black{
     display: none;
   }
 }
 
 [data-scheme="light"] { 
-  .humanmademark-white{
+  .brainmademark-white{
   display: none;
   }
 
-  .humanmademark-black{
+  .brainmademark-black{
     width: 20rem;
     height: auto;
   }
