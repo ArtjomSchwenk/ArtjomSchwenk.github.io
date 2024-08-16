@@ -14,14 +14,16 @@ local = true
 
 [[menu.social]]
   identifier = "github"
-  name = "GitHub"
+  name = "Github"
+  weight = -100
   url = "https://github.com/ArtjomSchwenk"
   [menu.social.params]
     icon = "brand-github"
 
 [[menu.social]]
   identifier = "mastodon"
-  name = "mastodon"
+  name = "Mastodon"
+  weight = -90
   url = "https://urusai.social/@stevy"
   [menu.social.params]
     icon = "brand-mastodon"
@@ -29,9 +31,18 @@ local = true
 [[menu.social]]
   identifier = "matrix"
   name = "Matrix"
+  weight = -80
   url = "https://matrix.to/#/@arti-s:matrix.org?client=im.element"
   [menu.social.params]
     icon = "brand-matrix"
+
+[[menu.social]]
+  identifier = "mail"
+  name = "Mail"
+  weight = -70
+  url = "mailto:contact@arti-s.com"
+    [menu.social.params]
+      icon = "mail"
 
 [[menu.main]]
   identifier = "home"
