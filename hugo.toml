@@ -38,7 +38,7 @@ local = true
 
 [[menu.social]]
   identifier = "mail"
-  name = "Mail"
+  name = "contact@arti-s.com"
   weight = -70
   url = "mailto:contact@arti-s.com"
     [menu.social.params]
