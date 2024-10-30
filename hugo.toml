@@ -1,16 +1,14 @@
-baseurl = "https://example.com"
+baseurl = "https://www.arti-s.com"
 languageCode = "en-us"
 theme = "stack"
 title = "Arti-s homepage"
 copyright = "Artjom Schwenk"
 
-[Params.Sidebar]
+[params.Sidebar]
 emoji = "🐍"
 
-[Params.Sidebar.avatar]
-enabled = true
+[sidebar.avatar]
 src = "img/avatar.png"
-local = true
 
 [[menu.social]]
   identifier = "github"
@@ -52,11 +50,9 @@ local = true
   [menu.main.params]
     icon = "home"
 
-[Params.Footer]
+[footer]
   since = 2024
 
-[Params.Article]
-  math = true
-  [params.article.licence]
-    enabled = true
-    default = "Licensed under CC BY-NC-SA 4.0"
+[params.article.license]
+  enabled = true
+  default = "Licensed under CC BY-NC-SA 4.0"
