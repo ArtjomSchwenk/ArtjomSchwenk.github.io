@@ -1,13 +1,29 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
-        <title>Arti-S homepage</title>
+        <title>arti-s homepage</title>
         <link>http://localhost:1313/</link>
-        <description>Recent content on Arti-S homepage</description>
+        <description>Recent content on arti-s homepage</description>
         <generator>Hugo -- gohugo.io</generator>
         <language>en-us</language>
         <copyright>Artjom Schwenk</copyright>
-        <lastBuildDate>Thu, 15 Aug 2024 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" /><item>
+        <lastBuildDate>Wed, 30 Oct 2024 14:00:00 +0200</lastBuildDate><atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>Volunteering for [the matrix conference] 2024</title>
+        <link>http://localhost:1313/post/volunteering-matrix2024/</link>
+        <pubDate>Wed, 30 Oct 2024 14:00:00 +0200</pubDate>
+        
+        <guid>http://localhost:1313/post/volunteering-matrix2024/</guid>
+        <description>&lt;h2 id=&#34;intro&#34;&gt;Intro
+&lt;/h2&gt;&lt;p&gt;From September 19th to 22nd of this year the Matrix Foundation held their first own Matrix Conference in person here in Berlin. I initially found out about this, whilst scrolling through matrix.org to learn more about the state of the project. At first I just wanted to join to listen to the talks and to network, but then I saw that they were searching for volunteers to help them out. Now given that I&amp;rsquo;m a university student in Berlin, I couldn&amp;rsquo;t donate much to FOSS-Projects like Matrix, but I still wanted to support them. So I took my chance and volunteered as tribute from district 12.&lt;/p&gt;
+&lt;h2 id=&#34;day-one---the-setup&#34;&gt;Day one - The Setup
+&lt;/h2&gt;&lt;p&gt;My first day involved helping out in setting up the venue. I was tasked with building up the merch booth and making sure that each LAB (presentation room) was getting their appropriate signs. After everything was done I had the chance to meet all the other volunteers and grasp the scope of how many people were willing to come for this. They mostly came from Europe, but also from other Continents. All with their own interests and yet still connected through this open-source project on the Internet. Sure, there are much bigger events, but this was my first time helping out a &lt;em&gt;community&lt;/em&gt;.&lt;/p&gt;
+&lt;h2 id=&#34;day-two---merch-booth&#34;&gt;Day two - Merch booth
+&lt;/h2&gt;&lt;p&gt;Day two I was tasked in managing the merch booth and selling shirts and mugs. I had a good time talking to other volunteers during presentations and with the attendees during the breaks. Keeping track of the inventory and selling the merch wasn&amp;rsquo;t too difficult, thanks to the folks managing it the day before.&lt;/p&gt;
+&lt;h2 id=&#34;final-thoughts&#34;&gt;Final Thoughts
+&lt;/h2&gt;&lt;p&gt;My only complaint would be that it was too short for me. Well this was entirely at my fault because I couldn&amp;rsquo;t attend the conference after my shift was over. Reason being that I had pretty tough exams the next week and I had to study for them (got a 1.0 for that). Otherwise I can only say that it was a very fun short weekend meeting new faces, sharing knowledge and helping out a dedicated community. I want to shout-out Plainschwarz for organizing the event and making everything work so seamlessly. And shout-out matrix.org for giving the community a chance to communicate with each other both over the web and in person. See you at the next event (provided that it is in Berlin. I&amp;rsquo;m still a poor university student).&lt;/p&gt;
+</description>
+        </item>
+        <item>
         <title>About Me</title>
         <link>http://localhost:1313/page/about/</link>
         <pubDate>Thu, 15 Aug 2024 00:00:00 +0000</pubDate>
@@ -16,7 +32,7 @@
         <description>&lt;p&gt;Hello there! My name is Artjom Schwenk and I welcome you to my website. This is your first point of contact and a guide to finding me in the vast depths of the web. This site is also the beginning of my attempts to make a difference in the computer science and media industry. Let me introduce you to the person behind this website.&lt;/p&gt;
 &lt;p&gt;I am a Russian-born German living in Berlin. I&amp;rsquo;m studying International Media and Computing (IMI) at the HTW Berlin - University of Applied Sciences. I am now entering my third semester, where I will focus on collaborative from-scratch development of applications in Java and Python. Additionally, I will concentrate on 3D design, which is one of my core interests. Other interests of mine include Linux and other free and open source software, federated social media and the gaming industry.&lt;/p&gt;
 &lt;p&gt;Since the first semester, my fellow students have elected me as one of their spokespersons to represent them and their interests to the teaching staff and the university. In my second semester I was part of the organisation team for the IMI-Summer Party 2024. My responsibilities included booking the venue, budgeting, accounting and coordinating the food and drinks for the event.&lt;/p&gt;
-&lt;p&gt;What can you expect to find on this website? To be honest, I don&amp;rsquo;t really have a clear vision for the website yet. I have some ideas about blogging about certain topics related to software development, 3D graphics and just my life at university. I am also considering making my statistically generated Hugo site compatible with the Fediverse using ActivityPub. With that people can follow my blog and comment on posts using their Mastodon clients. For now, I am using this site to learn more about web hosting, interacting with the global web, and improving my (English) writing skills. I hope you enjoy reading my posts as much as I enjoy writing them.&lt;/p&gt;
+&lt;p&gt;What can you expect to find on this website? To be honest, I don&amp;rsquo;t really have a clear vision for the website yet. I have some ideas about blogging about certain topics related to software development, 3D graphics and just my life at university. I am also considering making my statically generated Hugo site compatible with the Fediverse using ActivityPub. With that people can follow my blog and comment on posts using their Mastodon clients. For now, I am using this site to learn more about web hosting, interacting with the global web, and improving my (English) writing skills. I hope you enjoy reading my posts as much as I enjoy writing them.&lt;/p&gt;
 &lt;p&gt;Have a nice day and don&amp;rsquo;t hesitate to contact me.&lt;/p&gt;
 </description>
         </item>

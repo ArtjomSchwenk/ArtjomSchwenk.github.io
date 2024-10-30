@@ -1,7 +1,7 @@
 baseurl = "https://example.com"
 languageCode = "en-us"
 theme = "stack"
-title = "Arti-S homepage"
+title = "Arti-s homepage"
 copyright = "Artjom Schwenk"
 
 [Params.Sidebar]
