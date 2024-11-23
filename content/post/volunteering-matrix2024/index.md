@@ -9,7 +9,7 @@ tags = ["volunteering", "matrix", "foss"]
 From September 19th to 22nd of this year the Matrix.org Foundation held their first own Matrix Conference in person here in Berlin. I initially found out about this, whilst scrolling through their website to learn more about the state of the project. At first I was just interested in attending the talks and to network, but then I saw that they were searching for volunteers to help them out. Now given that I'm a university student in Berlin, I couldn't donate much to FOSS-Projects like Matrix, but I still wanted to support them. So I took my chance and volunteered as tribute from district 12.
 ## The Setup
 My first day involved helping out in setting up the venue. I was tasked with building up the merch booth and making sure that each LAB (presentation room) was getting their appropriate signs. After everything was done I had the chance to meet all the other volunteers and grasp the scope of how many people were willing to come for this. They mostly came from Europe, but also came overseas. All with their own interests and yet still connected through this open-source project on the Internet. Sure, there are much bigger events, but this was my first time helping out a *community*.
-## Merch booth
+## Merch Booth
 For day two I was tasked with managing the merch booth and selling shirts and mugs. I had a good time talking to other volunteers during presentations and with the attendees during the breaks. Keeping track of the inventory and selling the merch wasn't too difficult, thanks to the folks managing it the day before.
 ![Volunteer Team](ConfTeam.jpg)
 ## Final Thoughts
