@@ -27,9 +27,17 @@ src = "img/avatar.png"
     icon = "brand-mastodon"
 
 [[menu.social]]
+  identifier = "bluesky"
+  name = "Bluesky"
+  weight = -80
+  url = "https://bsky.app/profile/arti-s.bsky.social"
+  [menu.social.params]
+    icon = "brand-bluesky"
+
+[[menu.social]]
   identifier = "matrix"
   name = "Matrix"
-  weight = -80
+  weight = -70
   url = "https://matrix.to/#/@arti-s:matrix.org?client=im.element"
   [menu.social.params]
     icon = "brand-matrix"
@@ -37,7 +45,7 @@ src = "img/avatar.png"
 [[menu.social]]
   identifier = "mail"
   name = "contact@arti-s.com"
-  weight = -70
+  weight = -60
   url = "mailto:contact@arti-s.com"
     [menu.social.params]
       icon = "mail"
