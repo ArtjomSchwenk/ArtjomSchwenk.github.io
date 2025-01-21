@@ -1,7 +1,7 @@
 baseurl = "https://www.arti-s.com"
 languageCode = "en-us"
 theme = "stack"
-title = "Arti-s homepage"
+title = "Arti-S Homepage"
 copyright = "Artjom Schwenk"
 
 [params.Sidebar]
@@ -35,9 +35,17 @@ src = "img/avatar.png"
     icon = "brand-bluesky"
 
 [[menu.social]]
+  identifier = "pixelfed"
+  name = "Pixelfed"
+  weight = -70
+  url = "https://gram.social/Arti-S"
+  [menu.social.params]
+    icon = "brand-pixelfed"
+
+[[menu.social]]
   identifier = "matrix"
   name = "Matrix"
-  weight = -70
+  weight = -60
   url = "https://matrix.to/#/@arti-s:matrix.org?client=im.element"
   [menu.social.params]
     icon = "brand-matrix"
@@ -45,7 +53,7 @@ src = "img/avatar.png"
 [[menu.social]]
   identifier = "mail"
   name = "contact@arti-s.com"
-  weight = -60
+  weight = -50
   url = "mailto:contact@arti-s.com"
     [menu.social.params]
       icon = "mail"

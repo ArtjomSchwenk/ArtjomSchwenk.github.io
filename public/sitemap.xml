@@ -5,7 +5,19 @@
     <loc>http://localhost:1313/</loc>
     <lastmod>2024-10-30T14:00:00+02:00</lastmod>
   </url><url>
+    <loc>http://localhost:1313/tags/foss/</loc>
+    <lastmod>2024-10-30T14:00:00+02:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/matrix/</loc>
+    <lastmod>2024-10-30T14:00:00+02:00</lastmod>
+  </url><url>
     <loc>http://localhost:1313/post/</loc>
+    <lastmod>2024-10-30T14:00:00+02:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/</loc>
+    <lastmod>2024-10-30T14:00:00+02:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/volunteering/</loc>
     <lastmod>2024-10-30T14:00:00+02:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/post/volunteering-matrix2024/</loc>
@@ -23,7 +35,5 @@
     <loc>http://localhost:1313/categories/</loc>
   </url><url>
     <loc>http://localhost:1313/page/search/</loc>
-  </url><url>
-    <loc>http://localhost:1313/tags/</loc>
   </url>
 </urlset>
