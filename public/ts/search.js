@@ -29,7 +29,11 @@
       this.list = list;
       this.resultTitle = resultTitle;
       this.resultTitleTemplate = resultTitleTemplate;
-      this.handleQueryString();
+      if (this.input.value.trim() !== "") {
+        this.doSearch(this.input.value.split(" "));
+      } else {
+        this.handleQueryString();
+      }
       this.bindQueryStringChange();
       this.bindSearchForm();
     }
