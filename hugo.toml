@@ -19,20 +19,20 @@ src = "img/avatar.png"
     icon = "brand-github"
 
 [[menu.social]]
+  identifier = "signal"
+  name = "Signal"
+  weight = -90
+  url = "https://signal.me/#eu/2u9Dyo-Uc9ileKvqXXw9d4SQ2tDvuKzDqQ6F7qmQDK3IJSjBEBxBeKndyMEtyT_f"
+  [menu.social.params]
+    icon = "brand-signal"
+
+[[menu.social]]
   identifier = "mastodon"
   name = "Mastodon"
-  weight = -90
+  weight = -80
   url = "https://urusai.social/@stevy"
   [menu.social.params]
     icon = "brand-mastodon"
-
-[[menu.social]]
-  identifier = "bluesky"
-  name = "Bluesky"
-  weight = -80
-  url = "https://bsky.app/profile/arti-s.bsky.social"
-  [menu.social.params]
-    icon = "brand-bluesky"
 
 [[menu.social]]
   identifier = "pixelfed"

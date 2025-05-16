@@ -1,41 +1,34 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-    <channel>
-        <title>Pages on Arti-S Homepage</title>
-        <link>http://localhost:1313/page/</link>
-        <description>Recent content in Pages on Arti-S Homepage</description>
-        <generator>Hugo -- gohugo.io</generator>
-        <language>en-us</language>
-        <copyright>Artjom Schwenk</copyright>
-        <lastBuildDate>Thu, 15 Aug 2024 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/page/index.xml" rel="self" type="application/rss+xml" /><item>
-        <title>About Me</title>
-        <link>http://localhost:1313/page/about/</link>
-        <pubDate>Thu, 15 Aug 2024 00:00:00 +0000</pubDate>
-        
-        <guid>http://localhost:1313/page/about/</guid>
-        <description>&lt;p&gt;Hello there! My name is Artjom Schwenk and I welcome you to my website. This is your first point of contact and a guide to finding me in the vast depths of the web. This site is also the beginning of my attempts to make a difference in the computer science and media industry. Let me introduce you to the person behind this website.&lt;/p&gt;
-&lt;p&gt;I am a Russian-born German living in Berlin. I&amp;rsquo;m studying International Media and Computing (IMI) at the HTW Berlin - University of Applied Sciences. I am now entering my third semester, where I will focus on collaborative from-scratch development of applications in Java and Python. Additionally, I will concentrate on 3D design, which is one of my core interests. Other interests of mine include Linux and other free and open source software, federated social media and the gaming industry.&lt;/p&gt;
-&lt;p&gt;Since the first semester, my fellow students have elected me as one of their spokespersons to represent them and their interests to the teaching staff and the university. In my second semester I was part of the organisation team for the IMI-Summer Party 2024. My responsibilities included booking the venue, budgeting, accounting and coordinating the food and drinks for the event.&lt;/p&gt;
-&lt;p&gt;What can you expect to find on this website? To be honest, I don&amp;rsquo;t really have a clear vision for the website yet. I have some ideas about blogging about certain topics related to software development, 3D graphics and just my life at university. I am also considering making my statically generated Hugo site compatible with the Fediverse using ActivityPub. With that people can follow my blog and comment on posts using their Mastodon clients. For now, I am using this site to learn more about web hosting, interacting with the global web, and improving my (English) writing skills. I hope you enjoy reading my posts as much as I enjoy writing them.&lt;/p&gt;
-&lt;p&gt;Have a nice day and don&amp;rsquo;t hesitate to contact me.&lt;/p&gt;
-</description>
-        </item>
-        <item>
-        <title>Archives</title>
-        <link>http://localhost:1313/page/archives/</link>
-        <pubDate>Mon, 08 Jul 2024 00:00:00 +0000</pubDate>
-        
-        <guid>http://localhost:1313/page/archives/</guid>
-        <description></description>
-        </item>
-        <item>
-        <title>Search</title>
-        <link>http://localhost:1313/page/search/</link>
-        <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-        
-        <guid>http://localhost:1313/page/search/</guid>
-        <description></description>
-        </item>
-        
-    </channel>
+  <channel>
+    <title>Pages on Arti-S Homepage</title>
+    <link>http://localhost:1313/page/</link>
+    <description>Recent content in Pages on Arti-S Homepage</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <copyright>Artjom Schwenk</copyright>
+    <lastBuildDate>Thu, 15 Aug 2024 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/page/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>About Me</title>
+      <link>http://localhost:1313/page/about/</link>
+      <pubDate>Thu, 15 Aug 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/page/about/</guid>
+      <description>&lt;p&gt;Hello there! My name is Artjom Schwenk and I welcome you to my website. This is your first point of contact and a guide to finding me in the vast depths of the web. This site is also the beginning of my attempts to make a difference in the computer science and media industry. Let me introduce you to the person behind this website.&lt;/p&gt;&#xA;&lt;p&gt;I am a Russian-born German living in Berlin. I&amp;rsquo;m studying International Media and Computing (IMI) at the HTW Berlin - University of Applied Sciences. I am now entering my third semester, where I will focus on collaborative from-scratch development of applications in Java and Python. Additionally, I will concentrate on 3D design, which is one of my core interests. Other interests of mine include Linux and other free and open source software, federated social media and the gaming industry.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Archives</title>
+      <link>http://localhost:1313/page/archives/</link>
+      <pubDate>Mon, 08 Jul 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/page/archives/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Search</title>
+      <link>http://localhost:1313/page/search/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/page/search/</guid>
+      <description></description>
+    </item>
+  </channel>
 </rss>
